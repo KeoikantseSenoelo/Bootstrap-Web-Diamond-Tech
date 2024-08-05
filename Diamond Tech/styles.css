@@ -1,14 +1,14 @@
 .logo-container {
     text-align: center;
-    margin-bottom: -50px; /* Adjust this value as needed */
+    margin-bottom: -50px; 
 }
 
 .logo-container img {
-    max-width: 100px; /* Adjust the size of the logo */
+    max-width: 100px;
 }
 
 .navbar {
-    margin-top: 50px; /* Adjust this value to create space for the logo */
+    margin-top: 50px; 
 }
 
 .about-us-section {
@@ -24,6 +24,6 @@
     padding: 20px;}
 
 .contact-us-section {
-    background-color:rgba(104, 104, 104, 0.303); /* Light grey background color */
+    background-color:rgba(104, 104, 104, 0.303); 
     padding: 60px 0;
 }
